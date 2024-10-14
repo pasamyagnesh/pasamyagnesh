@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasam Yagnesh</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">I'm a Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasamyagnesh&label=Profile%20views&color=0e75b6&style=flat" alt="pasamyagnesh" /> </p>
 
@@ -9,15 +9,14 @@
 
 - 🤝 I’m looking for help with [Dork](https://dork-application.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://pasamyagnesh.vercel.app/](https://pasamyagnesh.vercel.app/)
+- 👨‍💻 All of my projects are available at [pasamyagnesh.vercel.app](https://pasamyagnesh.vercel.app/)
 
 - 💬 Ask me about **Javascript,Express.js and Python**
 
 - 📫 How to reach me **pasamyagnesh@aliet.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wcv4QNXBiwzA_ShEMT2uqSmIezioMraw/view?usp=sharing](https://drive.google.com/file/d/1Wcv4QNXBiwzA_ShEMT2uqSmIezioMraw/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wcv4QNXBiwzA_ShEMT2uqSmIezioMraw/view?usp=sharing)
 
-- ⚡ Fun fact **Cinema is a life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
