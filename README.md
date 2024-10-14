@@ -1,5 +1,15 @@
 # 💫 About Me:
-  I'm a 4th Yr. CSE undergrad . My interests include Competitive Programming, Backend development and Algorithms.I have hands-on experience in developing RESTful APIs using JavaScript. I am actively looking for opportunities in both frontend and backend roles
+I'm a 4th Yr. CSE undergrad. My interests include Competitive Programming, Backend Development, and Algorithms. I have hands-on experience in developing RESTful APIs using JavaScript. I am actively looking for opportunities in both frontend and backend roles.
+
+---
+
+## 🛠️ Products:
+Here are some of the products I've developed:
+
+- [**Dork**](https://dork-application.vercel.app/): A coding platform for solving problems based on various data structures and algorithms concepts, aimed at improving competitive programming skills.
+
+---
+
 
 
 ## 🌐 Socials:
