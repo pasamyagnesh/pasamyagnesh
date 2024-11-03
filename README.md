@@ -21,6 +21,7 @@ Here are some of the products I've developed:
 ![](https://github-readme-stats.vercel.app/api?username=pasamyagnesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasamyagnesh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasamyagnesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![An image of @pasamyagnesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pasamyagnesh)](https://holopin.io/@pasamyagnesh)
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
