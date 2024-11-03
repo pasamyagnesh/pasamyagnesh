@@ -10,6 +10,8 @@ Here are some of the products I've developed:
 
 ---
 
+Focus: Full-Stack development (React.js,Javascript, Flask, SQL/NoSQL databases), open to other technologies as well.
+
 
 
 ## 🌐 Socials:
