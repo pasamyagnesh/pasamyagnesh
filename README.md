@@ -16,11 +16,9 @@ I'm focused on **Full-Stack Development** (React.js, JavaScript, Flask, SQL/NoSQ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yagneshpasam) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yagneshpasam)
 
-
-### Badges
-
-[![An image of @pasamyagnesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pasamyagnesh)](https://holopin.io/@pasamyagnesh)
-
+<a href="https://holopin.io/@pasamyagnesh">
+    <img src="https://holopin.me/pasamyagnesh" alt="An image of @pasamyagnesh's Holopin badges, which is a link to view their full Holopin profile" width="800"/>
+</a>
 
 
 [![](https://visitcount.itsvg.in/api?id=pasamyagnesh&icon=0&color=3)](https://visitcount.itsvg.in)
