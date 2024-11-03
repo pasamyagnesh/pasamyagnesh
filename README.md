@@ -4,7 +4,7 @@ I'm **Yagnesh**, a Software Developer and Computer Engineering student from Indi
 
 ### Products I've Developed
 
-- [**Dork**](https://dork-application.vercel.app/): A coding platform for solving problems based on various data structures and algorithms concepts, aimed at improving competitive programming skills.
+- [**Dork**](https://dork-application.vercel.app/): A coding platform for solving problems based on various data structures and algorithms concepts.
 
 - [**Project OSUS**](https://project-osus.vercel.app/): A URL Shortener that allows users to generate shortened URLs that redirect to longer URLs.  
   **My contributions**: [Pull Requests](https://github.com/harshithtunuguntla/project-osus/pulls?q=is%3Apr+is%3Aclosed+author%3Apasamyagnesh)
