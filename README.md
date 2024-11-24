@@ -1,5 +1,5 @@
 
-I'm **Yagnesh**, a Software Developer and Computer Engineering student from India. Here's some info about me!
+I'm **Yagnesh**, a Software Developer and Senior Computer Engineering student from India. Here's some info about me!
 
 
 ### Products I've Developed
