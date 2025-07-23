@@ -1,12 +1,10 @@
 I'm **Yagnesh**, a Software Developer and Senior Computer Engineering student from India. Here's some info about me!
 
----
 
 ### Work Experience
 
 - **Software Developer Intern** at [Tilicho Labs](https://tilicho.in/) – Working on web application development. [May 2025 – Present]
 
----
 
 ### Products I've Developed
 
@@ -15,7 +13,6 @@ I'm **Yagnesh**, a Software Developer and Senior Computer Engineering student fr
 - [**Project OSUS**](https://project-osus.vercel.app/): A URL Shortener that allows users to generate shortened URLs that redirect to longer URLs.  
   My contributions: [Pull Requests](https://github.com/harshithtunuguntla/project-osus/pulls?q=is%3Apr+is%3Aclosed+author%3Apasamyagnesh)
 
----
 
 I'm focused on **Full-Stack Development** (React.js, JavaScript, Flask, SQL/NoSQL databases) and am open to learning other technologies as well.
 
