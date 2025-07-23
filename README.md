@@ -4,8 +4,7 @@ I'm **Yagnesh**, a Software Developer and Senior Computer Engineering student fr
 
 ### Work Experience
 
-- **Software Developer Intern** at [Tilicho Labs](https://tilicho.in/) – Working on web application development.  
-  May 2025 – Present
+- **Software Developer Intern** at [Tilicho Labs](https://tilicho.in/) – Working on web application development. [May 2025 – Present]
 
 ---
 
